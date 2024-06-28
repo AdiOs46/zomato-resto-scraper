@@ -4,7 +4,7 @@ This project scrapes the top-rated restaurants in a city from Zomato using Pytho
 
 ## Features
 
-- Scrapes top-rated restaurants from Swiggy for given dish URLs.
+- Scrapes top-rated restaurants from Zomato for given dish URLs.
 - Uses Selenium to handle dynamic loading and scrolling.
 - Stores the URLs of the top 5 restaurants for each dish in a text file.
 
